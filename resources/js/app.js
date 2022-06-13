@@ -25,8 +25,10 @@ Vue.use(VueRouter);
 Vue.component('mainapp', require('./components/mainapp.vue').default);
 
 import Dashboard from './components/Dashboard';
+import Test from './components/Test';
  let routes=[
-     { path:'/dashboard', component:Dashboard, name:'dashboard'},
+     { path:'/home', component:Dashboard, name:'dashboard'},
+     { path:'/test2', component:Test, name:'test2'},
  ]
  
 const router= new VueRouter({ 

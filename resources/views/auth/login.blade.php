@@ -1,4 +1,4 @@
-@extends('layouts.app')
+@extends('layouts.app-auth')
 
 @section('content')
 <div class="container">
@@ -50,7 +50,7 @@
                                 </div>
                             </div>
                         </div>
-
+                        
                         <div class="row mb-0">
                             <div class="col-md-8 offset-md-4">
                                 <button type="submit" class="btn btn-primary">
@@ -62,6 +62,20 @@
                                         {{ __('Forgot Your Password?') }}
                                     </a>
                                 @endif
+                            </div>
+                        </div>
+                        <div class="row">
+                               <div class="col-12 alert alert-warning mt-2">
+                                   email: <b>admin@gmail.com</b> <br>
+                                   password: <b>password</b>
+
+                               </div>
+                        </div>
+
+                        <div class="row">
+                            <div class="col-12 text-center mt-4">
+                                <p>Or you can create accoun from bottom button </p>
+                                <a href="{{ route('register') }}" class="btn btn-info"> Register  </a>
                             </div>
                         </div>
                     </form>
