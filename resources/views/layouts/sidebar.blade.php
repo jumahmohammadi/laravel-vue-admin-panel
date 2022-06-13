@@ -13,13 +13,13 @@
                                 Menu
                             </li>
 							<li class="nav-item">
-							  <router-link to="/test_component" class="nav-link ">
+							  <router-link to="/home" class="nav-link active">
                         		 <i class="fas fa-fw fa-chart-pie" aria-hidden="true"></i>
                                  <span class="hide-menu">Test Component</span>
                         	  </router-link>
 							</li>
                             <li class="nav-item ">
-                                <a class="nav-link active" href="#" data-toggle="collapse" aria-expanded="false" data-target="#submenu-1" aria-controls="submenu-1"><i class="fa fa-fw fa-user-circle"></i>Dashboard <span class="badge badge-success">6</span></a>
+                                <a class="nav-link " href="#" data-toggle="collapse" aria-expanded="false" data-target="#submenu-1" aria-controls="submenu-1"><i class="fa fa-fw fa-user-circle"></i>Dashboard <span class="badge badge-success">6</span></a>
                                 <div id="submenu-1" class="collapse submenu" style="">
                                     <ul class="nav flex-column">
                                         <li class="nav-item">
@@ -77,3 +77,4 @@
         <!-- ============================================================== -->
         <!-- end left sidebar -->
         <!-- ============================================================== -->
+		

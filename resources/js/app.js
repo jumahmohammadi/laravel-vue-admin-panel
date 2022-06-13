@@ -26,7 +26,7 @@ Vue.component('mainapp', require('./components/mainapp.vue').default);
 
 import Dashboard from './components/Dashboard';
  let routes=[
-     { path:'/dashboard', component:Dashboard, name:'dashboard'},
+     { path:'/home', component:Dashboard, name:'dashboard'},
  ]
  
 const router= new VueRouter({ 

@@ -5352,7 +5352,7 @@ Vue.use(vue_router__WEBPACK_IMPORTED_MODULE_0__["default"]);
 Vue.component('mainapp', (__webpack_require__(/*! ./components/mainapp.vue */ "./resources/js/components/mainapp.vue")["default"]));
 
 var routes = [{
-  path: '/dashboard',
+  path: '/home',
   component: _components_Dashboard__WEBPACK_IMPORTED_MODULE_1__["default"],
   name: 'dashboard'
 }];
