@@ -28,10 +28,8 @@ import Dashboard from './components/Dashboard';
 import Test from './components/Test';
  let routes=[
      { path:'/home', component:Dashboard, name:'dashboard'},
-<<<<<<< HEAD
      { path:'/test2', component:Test, name:'test2'},
-=======
->>>>>>> e5230c292b2a3224047ca6b0250844a7d5923c7e
+
  ]
  
 const router= new VueRouter({ 

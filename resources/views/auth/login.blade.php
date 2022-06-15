@@ -1,8 +1,6 @@
-<<<<<<< HEAD
 @extends('layouts.app-auth')
-=======
-@extends('layouts.app-login')
->>>>>>> e5230c292b2a3224047ca6b0250844a7d5923c7e
+
+
 
 @section('content')
 <div class="container">

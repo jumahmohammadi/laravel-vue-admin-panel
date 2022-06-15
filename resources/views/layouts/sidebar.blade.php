@@ -25,11 +25,11 @@
                               </router-link>
                             </li>
                             <li class="nav-item ">
-<<<<<<< HEAD
+
                                 <a class="nav-link " href="#" data-toggle="collapse" aria-expanded="false" data-target="#submenu-1" aria-controls="submenu-1"><i class="fa fa-fw fa-user-circle"></i>DropDown Menu <span class="badge badge-success">6</span></a>
-=======
-                                <a class="nav-link " href="#" data-toggle="collapse" aria-expanded="false" data-target="#submenu-1" aria-controls="submenu-1"><i class="fa fa-fw fa-user-circle"></i>Dashboard <span class="badge badge-success">6</span></a>
->>>>>>> e5230c292b2a3224047ca6b0250844a7d5923c7e
+
+                      
+
                                 <div id="submenu-1" class="collapse submenu" style="">
                                     <ul class="nav flex-column">
                                         <li class="nav-item">
