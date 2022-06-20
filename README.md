@@ -114,7 +114,7 @@ its a ready laravel vue project has nice admin panel design,If you are new in la
 
 Jumah Mohammadi - [@jumah-mohammadi](https://www.linkedin.com/in/jumah-mohammadi/) - jumahmk2020@gmail.com
 
-Project Link: [https://github.com/jumahmohammadi/laravel-ajax-datatable](https://github.com/jumahmohammadi/laravel-ajax-datatable)
+Project Link: [https://github.com/jumahmohammadi/laravel-vue-admin-panel/](https://github.com/jumahmohammadi/laravel-vue-admin-panel/)
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
